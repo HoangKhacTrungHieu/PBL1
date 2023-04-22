@@ -1,0 +1,6 @@
+Ho va ten,Ngay truc
+Nguyen Van A,2,4
+Nguyen Van B,2,6
+Nguyen Van C,2,5,7
+Nguyen Van D,4,6
+Nguyen Van E,7,cn

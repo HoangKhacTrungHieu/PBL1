@@ -1,0 +1,47 @@
+Ma san pham,Ten san pham,Gia von,Gia ban,So luong,Khuyen mai
+1,Sua Vinamilk hop 1 lit,40000,50000,10,0%
+2,Sua chua SuSu co duong,19000,27000,20,0%
+3,Sua hop 4 loc TH True Milk ,28000,36500,10,0%
+4,Banh Chocopie Orion vi cacao,33000,45000,5,0%
+5,Cha ca chien Quy Nhon 200g,30000,39000,15,0%
+6,Thit vai heo 0.4kg,42000,56000,5,0%
+7,Ca basa tuoi 0.8kg,37500,45000,7,0%
+8,Tom vien 200g,23500,31000,11,0%
+9,Ta quan Bobby 48 mieng,280500,334000,10,0%
+10,Sua dac Dutch Lady 380g,15200,24200,23,0%
+11,Nuoc giat Downy 2.15kg,123500,148000,12,0%
+12,Nuoc lau san chai 1L,19200,28200,16,0%
+13,Sua tam Enchanteur 650g,125000,187000,18,0%
+14,Kem danh rang Action 225g,36500,45500,19,0%
+15,Bia Tiger lon 330ml,9600,15600,30,0%
+16,Loc 6 lon bia Heineken 330ml,87000,111500,9,0%
+17,Mi Y Spaghettini 500g,32500,37700,14,21%
+18,Gao ST25 5kg,165500,190000,19,12%
+19,Snack khoai tay 110g,26000,31000,25,14%
+20,Tra OoLong Tea+ Plus,4500,7200,50,0%
+21,Sua mayonnaise chai 300g,30500,38000,19,11%
+22,Nuoc man Nam ngu De nhi,28000,32000,17,25%
+23,Thung 24 chai La Vie 500ml,85500,110000,20,12%
+24,Chan gio heo khay 500g,45000,59000,3,5%
+25,Loc 3 cuon tui dung rac 1kg,43000,53000,50,0%
+26,Khau trang Niva N95 hop 10 c i,29000,45000,15,20%
+27,Khau trang y te than hoat tinh,31500,43000,35,0%
+28,Sua rua tay huong anh dao,23000,35000,60,9%
+29,Hop dung giay nhua ,40000,50000,12,5%
+30,B nh quy bo Leibniz  Zoo 100g,20000,32000,9,40%
+31,Dau goi Head & Shoulders 625ml,142000,168000,18,10%
+32,Xa bong Romano Classic 90g,12300,21000,45,0%
+34,Photobook "Yes. I am Sana",900000,1305000,10,12%
+35,Khoai tay 1kg,20000,25000,5,0%
+36,Bap cai tim organic 1kg,30000,33900,7,0%
+37,Dua chuot 1kg,26200,36600,12,0%
+38,Chanh leo 1kg,23300,31400,10,23%
+39,Kem Merino ,4200,6300,30,0%
+40,Kem Vinamilk 1 Lit,70000,86000,23,5%
+41,Banh Oreo goi 133g,11200,16500,30,0%
+42,Thung 24 lon Coca Cola,234000,289000,14,10%
+43,Sting dau do 6 chai 330ml,58000,65000,32,3%
+44,Cafe lon Highlands Coffee ,9200,11200,48,11%
+45,Xuc xich thit heo Ponnie ,2000,25000,12,0%
+46,Giay An Gau Truc Sipao,4000,5800,37,0%
+47,Cuon giay lau da nang,54600,66000,47,20%
